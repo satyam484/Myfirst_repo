@@ -1,2 +1,3 @@
 # Myfirst_repo
-Config files for my GitHub profile.
+This is my first Repo.<br>
+Author- Satyam Chaubey
